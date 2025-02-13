@@ -15,3 +15,9 @@
 - [Andrei Kovalev’s MidlibraryAndrei Kovalev](https://savanna.alxafrica.com/rltoken/78dMJQLXViUHnCnqcqKLIA)
 - [Midjourney Prompts](https://savanna.alxafrica.com/rltoken/-x1FMQJ56Lrjh_tFpIBM4A)
 - [100+ Best Midjourney Prompts for Mindblowing Results in 2024](https://savanna.alxafrica.com/rltoken/XilUyJi_LrasdXdMx88uLA)
+
+
+### Video Generating copilots
+- [ Hedra - Video Creation for everyone](https://www.hedra.com)
+- [ Live Portrait](https://www.hedra.com/app/characters)
+- [AIFaceSwap](https://huggingface.co/spaces/KwaiVGI/LivePortrait)
