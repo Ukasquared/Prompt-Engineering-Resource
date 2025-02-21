@@ -21,3 +21,11 @@
 - [ Hedra - Video Creation for everyone](https://www.hedra.com)
 - [ Live Portrait](https://www.hedra.com/app/characters)
 - [AIFaceSwap](https://huggingface.co/spaces/KwaiVGI/LivePortrait)
+
+### Note taking Virtual Assistance
+- [obsidian](https://obsidian.md/)
+
+### Resources - Idea to MVP with AI
+- [Val Town Docs](https://docs.val.town/)
+- [Using OpenAI with Val Town.](https://docs.val.town/std/openai/?ref=alxappliedai.com)
+- [What’s Included in Free Tier of Val Town](https://www.val.town/pricing)
