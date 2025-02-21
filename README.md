@@ -29,3 +29,6 @@
 - [Val Town Docs](https://docs.val.town/)
 - [Using OpenAI with Val Town.](https://docs.val.town/std/openai/?ref=alxappliedai.com)
 - [What’s Included in Free Tier of Val Town](https://www.val.town/pricing)
+
+### Generation of Notes
+- [NotebookLM](https://notebooklm.google.com/notebook/)
