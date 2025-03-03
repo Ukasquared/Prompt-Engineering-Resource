@@ -33,3 +33,6 @@
 
 ### Generation of Notes
 - [NotebookLM](https://notebooklm.google.com/notebook/)
+
+### Generative UI
+- [vO.dev](https://v0.dev/chat/automated-invoice-system-9gGHzUMFlie)
