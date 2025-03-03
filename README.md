@@ -36,3 +36,12 @@
 
 ### Generative UI
 - [vO.dev](https://v0.dev/chat/automated-invoice-system-9gGHzUMFlie)
+
+### Image generation and Video generation
+- [kling Ai](https://klingai.com/)
+
+### Speech Generation
+- [play.ht - voice cloning](https://play.ht/)
+- [Hierspeech](https://github.com/sh-lee-prml/HierSpeechpp)
+- [elevenlabs - text to speech](https://elevenlabs.io/)
+- [suo ai](https://github.com/suno-ai/bark)
