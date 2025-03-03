@@ -45,3 +45,6 @@
 - [Hierspeech](https://github.com/sh-lee-prml/HierSpeechpp)
 - [elevenlabs - text to speech](https://elevenlabs.io/)
 - [suo ai](https://github.com/suno-ai/bark)
+
+### Generation of designs
+-[ideogram])(https://ideogram.ai/t/explore)
