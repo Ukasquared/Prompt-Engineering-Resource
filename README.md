@@ -54,4 +54,7 @@
 - [Genie](https://lumalabs.ai/genie)
 - [Tripo3D](https://www.tripo3d.ai/)
 - [TripoSR](https://huggingface.co/spaces/stabilityai/TripoSR)
-- 
+
+### Generative Video Effects - Hands On
+- [Pika](https://pika.art/login)
+- [PixVerse](https://app.pixverse.ai/)
