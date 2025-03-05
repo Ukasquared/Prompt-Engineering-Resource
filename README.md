@@ -58,3 +58,8 @@
 ### Generative Video Effects - Hands On
 - [Pika](https://pika.art/login)
 - [PixVerse](https://app.pixverse.ai/)
+
+### NVIDIA NIMS
+- [Edify 3D](https://www.nvidia.com/en-us/gpu-cloud/edify/)
+- [Deepfake Image Detection](https://build.nvidia.com/hive/deepfake-image-detection)
+- [LLama 3.2 90b Vision](https://build.nvidia.com/meta/llama-3.2-90b-vision-instruct)
