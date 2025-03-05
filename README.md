@@ -48,3 +48,10 @@
 
 ### Generation of designs
 -[ideogram])(https://ideogram.ai/t/explore)
+
+### Text/Image to 3D
+- [Meshy](https://www.meshy.ai/discover)
+- [Genie](https://lumalabs.ai/genie)
+- [Tripo3D](https://www.tripo3d.ai/)
+- [TripoSR](https://huggingface.co/spaces/stabilityai/TripoSR)
+- 
